@@ -13,7 +13,7 @@ var app = express();
 var courses = [
     { id:1, name: "anoop"},
     { id:2, name: "anoop1"},
-    { id:3, name: "anoop2"}
+    { id:3, name: "anoop3"}
 ];
 // mongoose.connect('mongodb://localhost:3000/test', {useNewUrlParser: true});
 
